@@ -1,3 +1,4 @@
 print("hallo Git")
 print("2")
 print("ブランチで遊んでます")
+print("GitHubは、2020年の10月程に、マスターからメインに変えることにした。")
